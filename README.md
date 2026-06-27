@@ -1,6 +1,6 @@
 # About-me
 Hi My name is Alanis-lee 
-I am a Digital desig student and swim Instructor
+I am a Digital design student and swim Instructor
 ## Skills
 - Adobe Illustrator
 - Photoshop
